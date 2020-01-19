@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">HackDavisScheduler</string>
+    <string name="select_an_activity_to_schedule">Select an Activity to Schedule</string>
+    <string name="meals">Meals</string>
+    <string name="shopping">Shopping</string>
+    <string name="travel">Travel</string>
+    <string name="daily_routine">Daily Routine</string>
+    <string name="title_activity_meals">MealsActivity</string>
+    <string name="daily">Daily</string>
+    <string name="weekly">Weekly</string>
+    <string name="how_frequently_do_you_want_to_be_reminded_of_this_activity">How frequently do you want to be reminded of this activity?</string>
+    <string name="what_times_each_day">What times each day?</string>
+    <string name="hh_mm">HH:MM</string>
+    <string name="which_days_of_the_week_would_you_like_to_do_this">Which days of the week would you like to do this?</string>
+    <string name="sunday">Sunday</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="next">NEXT</string>
+    <string name="welcome">Welcome!</string>
+    <string name="select_a_time">Select a time</string>
+    <string name="set_time">Set Time</string>
+    <string name="selected_time">Selected Time</string>
+    <string name="_5_seconds" />
+    <string name="_10_seconds" />
+    <string name="_30_seconds" />
+</resources>
